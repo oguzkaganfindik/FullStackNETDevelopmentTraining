@@ -3,11 +3,29 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{0BFA7B70-9C14-4E7E-9ACD-150C4E14E7EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1) HelloWorld", "HelloWorld\1) HelloWorld.csproj", "{0BFA7B70-9C14-4E7E-9ACD-150C4E14E7EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uygulama1", "Uygulama1\Uygulama1.csproj", "{677A9374-6CB2-4D71-A628-F019B4C0F06A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2) Uygulama1", "Uygulama1\2) Uygulama1.csproj", "{677A9374-6CB2-4D71-A628-F019B4C0F06A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables_Degiskenler", "Variables - Değişkenler\Variables_Degiskenler.csproj", "{2DD21C3E-99B9-4A7A-B273-4C750B6D627E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3) Variables_Degiskenler", "Variables - Değişkenler\3) Variables_Degiskenler.csproj", "{2DD21C3E-99B9-4A7A-B273-4C750B6D627E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4) DegiskenlerAlistirma1", "DegiskenlerAlistirma1\4) DegiskenlerAlistirma1.csproj", "{A262D87D-9F28-473C-83A6-767F3197F244}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5) DegiskenlerAlistirmalar2", "2) DegiskenlerAlistirmalar2\5) DegiskenlerAlistirmalar2.csproj", "{7F1B2F66-FEF3-4190-8602-80CE1745F30F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6) DegiskenlerAlistirmalar3", "6) DegiskenlerAlistirmalar3\6) DegiskenlerAlistirmalar3.csproj", "{F8266002-A17D-4431-985B-ED4794E26D71}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7) Converting -TurDonusumleri", "7)Converting -TurDonusumleri\7) Converting -TurDonusumleri.csproj", "{32038833-C88A-4BBE-9C8A-AE6164EEB16A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8) Operations", "Operations\8) Operations.csproj", "{CC8BC0D6-E876-47DA-A1B3-EDCC5545D159}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9) ConvertingOrnek1", "ConvertingOrnek1\9) ConvertingOrnek1.csproj", "{F9BEFB1C-F73C-4617-A8A2-793D48945301}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10) ConvertingOrnek2", "ConvertingOrnek2\10) ConvertingOrnek2.csproj", "{B78D3D25-C934-457B-B1D0-15F98536F2CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11) Artir-Azalt", "Artir-Azalt\11) Artir-Azalt.csproj", "{B0B5574F-087B-4232-BFC3-DBEB1192246B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12) GenelTekrar", "GenelTekrar\12) GenelTekrar.csproj", "{D4CF79CD-8929-4949-9A91-BFC2DCB0154F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +45,42 @@ Global
 		{2DD21C3E-99B9-4A7A-B273-4C750B6D627E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2DD21C3E-99B9-4A7A-B273-4C750B6D627E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2DD21C3E-99B9-4A7A-B273-4C750B6D627E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A262D87D-9F28-473C-83A6-767F3197F244}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A262D87D-9F28-473C-83A6-767F3197F244}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A262D87D-9F28-473C-83A6-767F3197F244}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A262D87D-9F28-473C-83A6-767F3197F244}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F1B2F66-FEF3-4190-8602-80CE1745F30F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F1B2F66-FEF3-4190-8602-80CE1745F30F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F1B2F66-FEF3-4190-8602-80CE1745F30F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F1B2F66-FEF3-4190-8602-80CE1745F30F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8266002-A17D-4431-985B-ED4794E26D71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8266002-A17D-4431-985B-ED4794E26D71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8266002-A17D-4431-985B-ED4794E26D71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8266002-A17D-4431-985B-ED4794E26D71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32038833-C88A-4BBE-9C8A-AE6164EEB16A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32038833-C88A-4BBE-9C8A-AE6164EEB16A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32038833-C88A-4BBE-9C8A-AE6164EEB16A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32038833-C88A-4BBE-9C8A-AE6164EEB16A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC8BC0D6-E876-47DA-A1B3-EDCC5545D159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC8BC0D6-E876-47DA-A1B3-EDCC5545D159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC8BC0D6-E876-47DA-A1B3-EDCC5545D159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC8BC0D6-E876-47DA-A1B3-EDCC5545D159}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9BEFB1C-F73C-4617-A8A2-793D48945301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9BEFB1C-F73C-4617-A8A2-793D48945301}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9BEFB1C-F73C-4617-A8A2-793D48945301}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9BEFB1C-F73C-4617-A8A2-793D48945301}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B78D3D25-C934-457B-B1D0-15F98536F2CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B78D3D25-C934-457B-B1D0-15F98536F2CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B78D3D25-C934-457B-B1D0-15F98536F2CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B78D3D25-C934-457B-B1D0-15F98536F2CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0B5574F-087B-4232-BFC3-DBEB1192246B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0B5574F-087B-4232-BFC3-DBEB1192246B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0B5574F-087B-4232-BFC3-DBEB1192246B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0B5574F-087B-4232-BFC3-DBEB1192246B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4CF79CD-8929-4949-9A91-BFC2DCB0154F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4CF79CD-8929-4949-9A91-BFC2DCB0154F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4CF79CD-8929-4949-9A91-BFC2DCB0154F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4CF79CD-8929-4949-9A91-BFC2DCB0154F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
