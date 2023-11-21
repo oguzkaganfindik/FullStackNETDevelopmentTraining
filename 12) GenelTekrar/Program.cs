@@ -9,7 +9,7 @@ Sadece yürümeye devam etmeliyim.
 
 Yukarıdaki çıktıyı tek bir Console.WriteLine() kullanarak yazınız.
 */
-Console.WriteLine("Zorluklar yolumdan çekiliyor.\r\nBaşarıya giden yolum düzleşiyor.\r\nSadece yürümeye devam etmeliyim.");
+Console.WriteLine("Zorluklar yolumdan çekiliyor.\nBaşarıya giden yolum düzleşiyor.\nSadece yürümeye devam etmeliyim.");
 
 // Console ekranından veri girilmesini sağlayan c# kodunu yazınız.
 Console.WriteLine("klavyeden veri gir");
