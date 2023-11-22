@@ -27,23 +27,33 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11) Artir-Azalt", "11) Arti
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12) GenelTekrar", "12) GenelTekrar\12) GenelTekrar.csproj", "{D4CF79CD-8929-4949-9A91-BFC2DCB0154F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13) ExceptionHandling", "13) ExceptionHandling\13) ExceptionHandling.csproj", "{F45C9657-4D9A-4F5F-859A-927988454520}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13) ExceptionHandling", "13) ExceptionHandling\13) ExceptionHandling.csproj", "{F45C9657-4D9A-4F5F-859A-927988454520}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14) Try-Catch", "14) Try-Catch\14) Try-Catch.csproj", "{028CF41A-61B2-4593-9A66-E654B4EA4159}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14) Try-Catch", "14) Try-Catch\14) Try-Catch.csproj", "{028CF41A-61B2-4593-9A66-E654B4EA4159}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15) Debugging", "15) Debugging\15) Debugging.csproj", "{DDDC58DC-159E-40B3-9A1F-70C28AA3357F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15) Debugging", "15) Debugging\15) Debugging.csproj", "{DDDC58DC-159E-40B3-9A1F-70C28AA3357F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16) KararYapilari-If", "16) KararYapilari-If\16) KararYapilari-If.csproj", "{E4197346-70BC-4767-AAA6-D7F40E59AE41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16) KararYapilari-If", "16) KararYapilari-If\16) KararYapilari-If.csproj", "{E4197346-70BC-4767-AAA6-D7F40E59AE41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17) Forms1", "17) Forms1\17) Forms1.csproj", "{C8B1B25A-110B-4CA2-8BAB-1CFF2B04082D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17) Forms1", "17) Forms1\17) Forms1.csproj", "{C8B1B25A-110B-4CA2-8BAB-1CFF2B04082D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18) Forms2", "18) Forms2\18) Forms2.csproj", "{A29DD142-2A76-47F9-82B5-001AD0ED492E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "18) Forms2", "18) Forms2\18) Forms2.csproj", "{A29DD142-2A76-47F9-82B5-001AD0ED492E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19) IfAlistirma1", "19) IfAlistirma1\19) IfAlistirma1.csproj", "{7881908E-F4D3-4881-B090-F2F426062915}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "19) IfAlistirma1", "19) IfAlistirma1\19) IfAlistirma1.csproj", "{7881908E-F4D3-4881-B090-F2F426062915}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20) IfAlistirmalar2", "20) IfAlistirmalar2\20) IfAlistirmalar2.csproj", "{9FAE4420-613C-460E-8124-59DCCFEE6467}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20) IfAlistirmalar2", "20) IfAlistirmalar2\20) IfAlistirmalar2.csproj", "{9FAE4420-613C-460E-8124-59DCCFEE6467}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21) KararYapilari-VeVeya", "21) KararYapilari-VeVeya\21) KararYapilari-VeVeya.csproj", "{47A305B6-5A4D-4510-8252-021256C28BC6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "21) KararYapilari-VeVeya", "21) KararYapilari-VeVeya\21) KararYapilari-VeVeya.csproj", "{47A305B6-5A4D-4510-8252-021256C28BC6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "22) IfAlistirmalar3", "22) IfAlistirmalar3\22) IfAlistirmalar3.csproj", "{7D7D48D8-288F-4C1A-859C-55D0B31221A8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "23) IfAlistirmalar4", "23) IfAlistirmalar4\23) IfAlistirmalar4.csproj", "{8E0E4D17-8142-4604-8677-7CA32FE0E300}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "24) RNG", "24) RNG\24) RNG.csproj", "{207E5B3C-2132-44D1-B834-F277C7164B43}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "25) RNGForm", "25) RNGForm\25) RNGForm.csproj", "{C071ABCA-2922-464C-BF39-86D15080320B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "26) Timer", "26) Timer\26) Timer.csproj", "{B5C899D5-1E4D-4CE5-999E-F44CE9CE48C0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +145,26 @@ Global
 		{47A305B6-5A4D-4510-8252-021256C28BC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47A305B6-5A4D-4510-8252-021256C28BC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47A305B6-5A4D-4510-8252-021256C28BC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D7D48D8-288F-4C1A-859C-55D0B31221A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D7D48D8-288F-4C1A-859C-55D0B31221A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D7D48D8-288F-4C1A-859C-55D0B31221A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D7D48D8-288F-4C1A-859C-55D0B31221A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E0E4D17-8142-4604-8677-7CA32FE0E300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E0E4D17-8142-4604-8677-7CA32FE0E300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E0E4D17-8142-4604-8677-7CA32FE0E300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E0E4D17-8142-4604-8677-7CA32FE0E300}.Release|Any CPU.Build.0 = Release|Any CPU
+		{207E5B3C-2132-44D1-B834-F277C7164B43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{207E5B3C-2132-44D1-B834-F277C7164B43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{207E5B3C-2132-44D1-B834-F277C7164B43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{207E5B3C-2132-44D1-B834-F277C7164B43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C071ABCA-2922-464C-BF39-86D15080320B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C071ABCA-2922-464C-BF39-86D15080320B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C071ABCA-2922-464C-BF39-86D15080320B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C071ABCA-2922-464C-BF39-86D15080320B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5C899D5-1E4D-4CE5-999E-F44CE9CE48C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5C899D5-1E4D-4CE5-999E-F44CE9CE48C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5C899D5-1E4D-4CE5-999E-F44CE9CE48C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5C899D5-1E4D-4CE5-999E-F44CE9CE48C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

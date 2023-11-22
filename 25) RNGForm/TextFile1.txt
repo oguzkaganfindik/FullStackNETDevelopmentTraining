@@ -1,0 +1,11 @@
+﻿Rastgele sayıyı bulma oyunu
+
+Oyun başladığında kullanıcının 3 can hakkı olsun.
+
+Her denemede can hakkı bir azalsın ve can hakları bitene kadar oyun oynanabilsin.
+
+Her yanlışta bir ipucu veriniz. (Daha yüksek bir sayı deneyiniz ya da daha küçük bir sayı deneyiniz)
+
+Doğru bilindiğinde, kaçıncı tahminde doğru bildiğini yazdırınız.
+
+Not: Butonu kilitleme: (butonadi.Enabled = false)
