@@ -63,25 +63,43 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "29) Switch-Case-Alistirma1"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "30) Switch-Case-Alistirma2", "30) Switch-Case-Alistirma2\30) Switch-Case-Alistirma2.csproj", "{FDF695F6-520A-4E1F-91EE-8FF773E9C90E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31) TernaryIf", "31) TernaryIf\31) TernaryIf.csproj", "{7A2D209F-5934-4FCA-9BC0-FA7264598368}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "31) TernaryIf", "31) TernaryIf\31) TernaryIf.csproj", "{7A2D209F-5934-4FCA-9BC0-FA7264598368}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "32) GoTo", "32) GoTo\32) GoTo.csproj", "{86B7BE01-7CA0-4AE8-80F1-32D0DAF814F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "32) GoTo", "32) GoTo\32) GoTo.csproj", "{86B7BE01-7CA0-4AE8-80F1-32D0DAF814F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "33) Donguler-For", "33) Donguler-For\33) Donguler-For.csproj", "{D211C6A5-EA9F-40F1-95E9-3F6D3DA74507}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "33) Donguler-For", "33) Donguler-For\33) Donguler-For.csproj", "{D211C6A5-EA9F-40F1-95E9-3F6D3DA74507}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "34) ForAlistirmalar1", "34) ForAlistirmalar1\34) ForAlistirmalar1.csproj", "{E954F8B9-7433-46E4-B191-869555124D14}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "34) ForAlistirmalar1", "34) ForAlistirmalar1\34) ForAlistirmalar1.csproj", "{E954F8B9-7433-46E4-B191-869555124D14}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35) ForAlistirmalar2", "35) ForAlistirmalar2\35) ForAlistirmalar2.csproj", "{10C2EA23-8652-45BA-B6F3-392CA5FF3823}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "35) ForAlistirmalar2", "35) ForAlistirmalar2\35) ForAlistirmalar2.csproj", "{10C2EA23-8652-45BA-B6F3-392CA5FF3823}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "36) ForAlistirma3", "36) ForAlistirma3\36) ForAlistirma3.csproj", "{A0F812CC-AEAA-47FF-ABA9-4A3A652D9320}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "36) ForAlistirma3", "36) ForAlistirma3\36) ForAlistirma3.csproj", "{A0F812CC-AEAA-47FF-ABA9-4A3A652D9320}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "37) ForAlistirma4", "37) ForAlistirma4\37) ForAlistirma4.csproj", "{9A1DF395-1BEC-43DA-9D6C-ED957542005E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "37) ForAlistirma4", "37) ForAlistirma4\37) ForAlistirma4.csproj", "{9A1DF395-1BEC-43DA-9D6C-ED957542005E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "38) ForGenelTekrar", "38) ForGenelTekrar\38) ForGenelTekrar.csproj", "{2E4643C6-3B15-475F-A9AF-D3B248B58BE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "38) ForGenelTekrar", "38) ForGenelTekrar\38) ForGenelTekrar.csproj", "{2E4643C6-3B15-475F-A9AF-D3B248B58BE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "39) Donguler-While", "39) Donguler-While\39) Donguler-While.csproj", "{1BE2408D-3283-4685-9C09-562835ED422C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "39) Donguler-While", "39) Donguler-While\39) Donguler-While.csproj", "{1BE2408D-3283-4685-9C09-562835ED422C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "40) WhileAlistirma1", "40) WhileAlistirma1\40) WhileAlistirma1.csproj", "{555653CD-F617-44C8-B209-150928070915}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "40) WhileAlistirma1", "40) WhileAlistirma1\40) WhileAlistirma1.csproj", "{555653CD-F617-44C8-B209-150928070915}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "41) WhileAlistirma2", "41) WhileAlistirma2\41) WhileAlistirma2.csproj", "{9AAA2ED5-586E-4F76-916E-1400FDD153DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "42) WhileAlistirma3", "42) WhileAlistirma3\42) WhileAlistirma3.csproj", "{B5E5B3E8-FD12-4421-855C-38CA78914D47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "43) DoWhile", "43) DoWhile\43) DoWhile.csproj", "{F57EC5A7-D1D6-49E3-8765-C6D9E77782D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "44) Diziler", "44) Diziler\44) Diziler.csproj", "{0A0BA324-027D-481C-AA76-5627E34E57C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "45) Diziler2", "45) Diziler2\45) Diziler2.csproj", "{0DA21099-0D66-4440-BCDF-D66B7F96F615}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "46) DizilerAlistirma1", "46) DizilerAlistirma1\46) DizilerAlistirma1.csproj", "{0EA1CCCE-C484-4C12-B315-282B093F542E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "47) DizilerAlistirma2", "47) DizilerAlistirma2\47) DizilerAlistirma2.csproj", "{02660378-98B4-4A36-828E-BC045181957D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "48) Foreach", "48) Foreach\48) Foreach.csproj", "{CBDD0904-36D8-4F90-9C59-FD9F09D38C1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "49) DizilerAlistirma3", "49) DizilerAlistirma3\49) DizilerAlistirma3.csproj", "{ED382C81-BCFA-4E29-9118-9B3FEC064E46}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -249,6 +267,42 @@ Global
 		{555653CD-F617-44C8-B209-150928070915}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{555653CD-F617-44C8-B209-150928070915}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{555653CD-F617-44C8-B209-150928070915}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AAA2ED5-586E-4F76-916E-1400FDD153DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AAA2ED5-586E-4F76-916E-1400FDD153DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AAA2ED5-586E-4F76-916E-1400FDD153DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AAA2ED5-586E-4F76-916E-1400FDD153DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5E5B3E8-FD12-4421-855C-38CA78914D47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5E5B3E8-FD12-4421-855C-38CA78914D47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5E5B3E8-FD12-4421-855C-38CA78914D47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5E5B3E8-FD12-4421-855C-38CA78914D47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F57EC5A7-D1D6-49E3-8765-C6D9E77782D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F57EC5A7-D1D6-49E3-8765-C6D9E77782D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F57EC5A7-D1D6-49E3-8765-C6D9E77782D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F57EC5A7-D1D6-49E3-8765-C6D9E77782D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A0BA324-027D-481C-AA76-5627E34E57C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A0BA324-027D-481C-AA76-5627E34E57C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A0BA324-027D-481C-AA76-5627E34E57C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A0BA324-027D-481C-AA76-5627E34E57C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DA21099-0D66-4440-BCDF-D66B7F96F615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DA21099-0D66-4440-BCDF-D66B7F96F615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DA21099-0D66-4440-BCDF-D66B7F96F615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DA21099-0D66-4440-BCDF-D66B7F96F615}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EA1CCCE-C484-4C12-B315-282B093F542E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EA1CCCE-C484-4C12-B315-282B093F542E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EA1CCCE-C484-4C12-B315-282B093F542E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EA1CCCE-C484-4C12-B315-282B093F542E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02660378-98B4-4A36-828E-BC045181957D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02660378-98B4-4A36-828E-BC045181957D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02660378-98B4-4A36-828E-BC045181957D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02660378-98B4-4A36-828E-BC045181957D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBDD0904-36D8-4F90-9C59-FD9F09D38C1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBDD0904-36D8-4F90-9C59-FD9F09D38C1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBDD0904-36D8-4F90-9C59-FD9F09D38C1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBDD0904-36D8-4F90-9C59-FD9F09D38C1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED382C81-BCFA-4E29-9118-9B3FEC064E46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED382C81-BCFA-4E29-9118-9B3FEC064E46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED382C81-BCFA-4E29-9118-9B3FEC064E46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED382C81-BCFA-4E29-9118-9B3FEC064E46}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
