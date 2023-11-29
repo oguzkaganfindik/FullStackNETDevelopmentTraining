@@ -24,5 +24,5 @@ if (sayi2 == 0)
 }
 Console.WriteLine("Sonuç --> + " + sayi1/sayi2);
 
-
+//NOT: OOP PRENSİPLERİNE UYGUN OLMADIĞINDAN DOLAYI GOTO KULLANMIYORUM!!!
 
