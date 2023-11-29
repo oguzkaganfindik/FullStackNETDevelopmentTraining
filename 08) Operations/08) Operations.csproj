@@ -7,8 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\ConvertingOrnek1\09) ConvertingOrnek1.csproj" />
-  </ItemGroup>
-
 </Project>
