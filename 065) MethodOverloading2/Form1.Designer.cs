@@ -53,6 +53,7 @@
             btnSelamVer1.TabIndex = 0;
             btnSelamVer1.Text = "SELAM VER";
             btnSelamVer1.UseVisualStyleBackColor = false;
+            btnSelamVer1.Click += btnSelamVer1_Click;
             // 
             // btnSelamVer2
             // 
@@ -64,6 +65,7 @@
             btnSelamVer2.TabIndex = 1;
             btnSelamVer2.Text = "SELAM VER";
             btnSelamVer2.UseVisualStyleBackColor = false;
+            btnSelamVer2.Click += btnSelamVer2_Click;
             // 
             // btnSelamVer3
             // 
@@ -75,6 +77,7 @@
             btnSelamVer3.TabIndex = 2;
             btnSelamVer3.Text = "SELAM VER";
             btnSelamVer3.UseVisualStyleBackColor = false;
+            btnSelamVer3.Click += btnSelamVer3_Click;
             // 
             // label1
             // 

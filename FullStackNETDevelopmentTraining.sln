@@ -129,9 +129,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "062) MetotlarOrnek3", "062)
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "063) MetotlarOrnek4", "063) MetotlarOrnek4\063) MetotlarOrnek4.csproj", "{3841A176-D7ED-424A-9A72-A3780DC53A56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "064) MethodOverloading", "064) MethodOverloading\064) MethodOverloading.csproj", "{17144F94-E2BB-483E-BD55-18C62F334D05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "064) MethodOverloading", "064) MethodOverloading\064) MethodOverloading.csproj", "{17144F94-E2BB-483E-BD55-18C62F334D05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "065) MethodOverloading2", "065) MethodOverloading2\065) MethodOverloading2.csproj", "{E507AE13-DE06-40CC-9D72-9685D0FC0399}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "065) MethodOverloading2", "065) MethodOverloading2\065) MethodOverloading2.csproj", "{E507AE13-DE06-40CC-9D72-9685D0FC0399}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "066) Params", "066) Params\066) Params.csproj", "{72093DBD-E615-4234-BCED-1B929A8185AE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "067) Ref", "067) Ref\067) Ref.csproj", "{CFA1ADD4-BB63-4172-A657-57A92B0FAAA0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "068) RefOrnek", "068) RefOrnek\068) RefOrnek.csproj", "{B6727AD7-99CF-4413-BB70-96E86712095D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "069) RecursibeMethods", "069) RecursibeMethods\069) RecursibeMethods.csproj", "{2C636B69-B837-4CEA-BC42-27E7716C4C50}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "070) MathMethods", "070) MathMethods\070) MathMethods.csproj", "{50EA5D79-C52C-40F3-9EA4-215880F45948}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "071) StringMethods", "071) StringMethods\071) StringMethods.csproj", "{C97A56DD-A759-4CF3-BFD1-D9C7E5D06010}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "072) ToLowerToUpperOrnek", "072) ToLowerToUpperOrnek\072) ToLowerToUpperOrnek.csproj", "{9B4A0C38-46C0-4604-95DA-93387D2CE8D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "073) DateTimeMethods", "073) DateTimeMethods\073) DateTimeMethods.csproj", "{70AC0C77-B648-4EB5-BF99-ACD1F43CCEF4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -399,6 +415,38 @@ Global
 		{E507AE13-DE06-40CC-9D72-9685D0FC0399}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E507AE13-DE06-40CC-9D72-9685D0FC0399}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E507AE13-DE06-40CC-9D72-9685D0FC0399}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72093DBD-E615-4234-BCED-1B929A8185AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72093DBD-E615-4234-BCED-1B929A8185AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72093DBD-E615-4234-BCED-1B929A8185AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72093DBD-E615-4234-BCED-1B929A8185AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFA1ADD4-BB63-4172-A657-57A92B0FAAA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFA1ADD4-BB63-4172-A657-57A92B0FAAA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFA1ADD4-BB63-4172-A657-57A92B0FAAA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFA1ADD4-BB63-4172-A657-57A92B0FAAA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6727AD7-99CF-4413-BB70-96E86712095D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6727AD7-99CF-4413-BB70-96E86712095D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6727AD7-99CF-4413-BB70-96E86712095D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6727AD7-99CF-4413-BB70-96E86712095D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C636B69-B837-4CEA-BC42-27E7716C4C50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C636B69-B837-4CEA-BC42-27E7716C4C50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C636B69-B837-4CEA-BC42-27E7716C4C50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C636B69-B837-4CEA-BC42-27E7716C4C50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50EA5D79-C52C-40F3-9EA4-215880F45948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50EA5D79-C52C-40F3-9EA4-215880F45948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50EA5D79-C52C-40F3-9EA4-215880F45948}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50EA5D79-C52C-40F3-9EA4-215880F45948}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C97A56DD-A759-4CF3-BFD1-D9C7E5D06010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C97A56DD-A759-4CF3-BFD1-D9C7E5D06010}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C97A56DD-A759-4CF3-BFD1-D9C7E5D06010}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C97A56DD-A759-4CF3-BFD1-D9C7E5D06010}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B4A0C38-46C0-4604-95DA-93387D2CE8D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B4A0C38-46C0-4604-95DA-93387D2CE8D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B4A0C38-46C0-4604-95DA-93387D2CE8D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B4A0C38-46C0-4604-95DA-93387D2CE8D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70AC0C77-B648-4EB5-BF99-ACD1F43CCEF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70AC0C77-B648-4EB5-BF99-ACD1F43CCEF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70AC0C77-B648-4EB5-BF99-ACD1F43CCEF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70AC0C77-B648-4EB5-BF99-ACD1F43CCEF4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
