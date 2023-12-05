@@ -6,8 +6,6 @@
 
 // Ekrana merhaba yazanan bir metot. (MerhabaYaz)
 
-using System.Threading.Channels;
-
 void MerhabaYaz()
 {
     Console.WriteLine("Merhaba");

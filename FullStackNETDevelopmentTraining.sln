@@ -145,9 +145,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "070) MathMethods", "070) Ma
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "071) StringMethods", "071) StringMethods\071) StringMethods.csproj", "{C97A56DD-A759-4CF3-BFD1-D9C7E5D06010}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "072) ToLowerToUpperOrnek", "072) ToLowerToUpperOrnek\072) ToLowerToUpperOrnek.csproj", "{9B4A0C38-46C0-4604-95DA-93387D2CE8D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "072) ToLowerToUpperOrnek", "072) ToLowerToUpperOrnek\072) ToLowerToUpperOrnek.csproj", "{9B4A0C38-46C0-4604-95DA-93387D2CE8D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "073) DateTimeMethods", "073) DateTimeMethods\073) DateTimeMethods.csproj", "{70AC0C77-B648-4EB5-BF99-ACD1F43CCEF4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "073) DateTimeMethods", "073) DateTimeMethods\073) DateTimeMethods.csproj", "{70AC0C77-B648-4EB5-BF99-ACD1F43CCEF4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "074) TelefonNumarasiOrnegi", "074) TelefonNumarasiOrnegi\074) TelefonNumarasiOrnegi.csproj", "{4EF4349E-FB8B-43C5-A293-4DE6956D2B5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "075) GenelTekrarQuiz", "075) GenelTekrarQuiz\075) GenelTekrarQuiz.csproj", "{8109A85C-24E2-4B45-92E2-FEBA8077071D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -447,6 +451,14 @@ Global
 		{70AC0C77-B648-4EB5-BF99-ACD1F43CCEF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70AC0C77-B648-4EB5-BF99-ACD1F43CCEF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70AC0C77-B648-4EB5-BF99-ACD1F43CCEF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EF4349E-FB8B-43C5-A293-4DE6956D2B5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EF4349E-FB8B-43C5-A293-4DE6956D2B5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EF4349E-FB8B-43C5-A293-4DE6956D2B5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EF4349E-FB8B-43C5-A293-4DE6956D2B5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8109A85C-24E2-4B45-92E2-FEBA8077071D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8109A85C-24E2-4B45-92E2-FEBA8077071D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8109A85C-24E2-4B45-92E2-FEBA8077071D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8109A85C-24E2-4B45-92E2-FEBA8077071D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
