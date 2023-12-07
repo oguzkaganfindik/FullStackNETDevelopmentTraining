@@ -341,3 +341,226 @@ Console.WriteLine("Kalıcı olarak metindeki boşluklar silinmiştir. Metin yazd
 Console.WriteLine(kaliciBoslukSilme);
 
 Console.WriteLine("-------------------------------------------------------");
+
+/* Alternatif Çözümler
+
+// 1- Aşağıdaki çıktıyı yazan bir program.
+// Merhaba
+// nasılsın ?
+// İyiyim
+// Sen nasılsın ?
+
+Console.WriteLine("Merhaba");
+Console.WriteLine("nasılsın ?");
+Console.WriteLine("İyiyim");
+Console.WriteLine("Sen nasılsın ?");
+
+
+// 2- Bir adet metinsel , bir adet tam sayı verisi tutmak için 2 adet değişken tanımlayınız. Bunların değerlerini atayıp , ekrana yazdırınız.
+
+string metinselDegisken = "burası bir metin.";
+int tamSayiDegisken = 5;
+
+Console.WriteLine(metinselDegisken);
+Console.WriteLine(tamSayiDegisken);
+
+// 3- Rastgele bir sayı üretip , ekrana yazdırınız.
+
+Random rnd = new Random();
+Console.WriteLine(rnd.Next());
+
+
+// 4- Rastgele bir sayı üretip , bunun 3'e bölümünden kalanı ekrana yazdırınız.
+
+int rastgele = rnd.Next();
+int kalan = rastgele % 3;
+Console.WriteLine( kalan ) ;
+
+
+// 5- Kullanıcıya yaşını sorup , 18'den büyükse "+" küçükse "-" yazdıran bir uygulama.
+
+Console.WriteLine("Yaşınız kaç ?");
+int yas = Convert.ToInt32(Console.ReadLine());
+
+if(yas >= 18)
+    Console.WriteLine("+");
+else
+    Console.WriteLine("-");
+
+// ternary if ile yapsaydım
+Console.WriteLine(yas >= 18 ? "+" : "-");
+
+// ? -> if kısmı
+// : -> else kısmı
+
+// 6- Ekrana 10 defa " Sen Vodafone gibi anı yaşarken , ben Turkcell gibi seni her yerde çekemem." yazan bir uygulama.
+
+int sayac = 0;
+
+while (sayac < 10 )
+{
+    Console.WriteLine("Sen Vodafone gibi anı yaşarken , ben Turkcell gibi seni her yerde çekemem.");
+    sayac++;
+}
+
+// 7- 10 adet tam sayı verisi alacak bir dizi tanımlayınız.
+int[] sayilar = new int[10];
+
+// 8- Bu dizinin elemanlarını bir for döngüsü ile doldurup, foreach döngüsü ile tekrar ekrana yazınız.
+for (int i = 0; i < sayilar.Length; i++)
+{
+    sayilar[i] = Convert.ToInt32(Console.ReadLine());
+   
+}
+
+foreach (var item in sayilar)
+{
+    Console.WriteLine(item);
+}
+
+// 9- Bu diziye kullanıcıdan alınan yeni bir değeri ekleyiniz (11. eleman olarak)
+
+Console.WriteLine("Yeni değer giriniz.");
+int yeni = Convert.ToInt32(Console.ReadLine());
+
+Array.Resize(ref sayilar, sayilar.Length + 1);
+sayilar[sayilar.Length - 1] = yeni;
+
+// 10- Bu diziyi büyükten küçüğe ekrana yazdırınız.
+
+Array.Sort(sayilar); // küçükten büyüğe sırala.
+Array.Reverse(sayilar); // ters çevir.
+
+foreach (var item in sayilar)
+{
+    Console.WriteLine(item);
+}
+
+
+
+// 11- Kullanıcıdan 2 tane metinsel değer alıp "Gülse Birsel" , "Demet Evgar" , bunların yerlerini değiştiriniz.
+
+string isim1 = Console.ReadLine();
+string isim2 = Console.ReadLine();
+
+string gecici = isim1;
+isim1 = isim2;
+isim2 = gecici;
+
+Console.WriteLine(isim1);
+Console.WriteLine(isim2);
+
+// 12- Değer döndürmeyen ismi BenDegerDondurmem olan bir metot tanımlayınız. Ekrana "Ben değer döndürmem , benim bir karşılığım yok , beni değişkene atamaya çalışma" yazsın.
+
+void BenDegerDondurmem()
+{
+    Console.WriteLine("Ben değer döndürmem , benim bir karşılığım yok , beni değişkene atamaya çalışma.");
+}
+
+BenDegerDondurmem();
+BenDegerDondurmem();
+BenDegerDondurmem();
+BenDegerDondurmem();
+BenDegerDondurmem();
+
+// 13- İki sayıyı alıp bunların toplam değerini geriye döndüren bir metot yazınız.
+int Topla(int sayi1, int sayi2)
+{
+    return sayi1 + sayi2;
+}
+
+
+// 14- Parametre olarak true ya da false değeri alıp string bir değer dönen bir metot tanımlayınız.
+string Test(bool durum)
+{
+    return durum ? "BAŞARILI" : "BAŞARISIZ";
+}
+
+// 15- 3 Kişinin yaşlarını alıp en yaşlı olanının yaş bilgisini dönen bir metot yazınız.
+int EnYasliyiBul(int yas1, int yas2, int yas3)
+{
+
+    int enyasli = yas1;
+
+    if (yas2 > enyasli)
+        enyasli = yas2;
+
+    if (yas3 > enyasli)
+        enyasli = yas3;
+
+    return enyasli;
+}
+
+Console.WriteLine("En yaşlı olan -> " + EnYasliyiBul(15, 23, 11));
+
+// 16- Parametre olarak alınan sınırsız sayıda sayı alıp , bunlardan en büyüğünü ekrana yazdıran ve aynı zamanda geriye dönen bir metot yazınız.
+
+// int[] sayilar = {2, 3, 5, 11, 55, -3, -22, 59} metot kullanılınca params parametreleri buna dönüştürdü.
+
+int enBuyuguBul(params int[] sayilar)
+{
+    Array.Sort(sayilar); // küçükten büyüğe sırala, en büyük değer en sonda kalır.
+
+    Console.WriteLine("En büyük değer -> " + sayilar[sayilar.Length - 1]);
+
+    return sayilar[sayilar.Length - 1];
+}
+
+enBuyuguBul(10, 30, 60, 11, -5, 23, 45, 1231);
+
+// 17- Bir metot yardımıyla kullanıcıdan alınan 2 ismin yerlerini değiştiren uygulamayı yazınız.
+
+void YerDegistir(ref string isim1, ref string isim2)
+{
+    string gecici = isim1;
+    isim1 = isim2;
+    isim2 = gecici;
+}
+
+string degisken1 = "Hellooo";
+string degisken2 = "Good Bye";
+
+YerDegistir(ref degisken1, ref degisken2);
+
+Console.WriteLine(degisken1);
+Console.WriteLine(degisken2);
+
+// 18-  Parametre olarak alınan sayının tek mi yoksa çift mi olduğu bilgisini (true/false) dönen bir metot.
+
+bool TekMi(int sayi)
+{
+    if (sayi % 2 != 0)
+        return true;
+    else
+        return false;
+}
+
+// 19-  Parametre olarak alınan hız ve zaman bilgileriyle , gidilen yolu hesaplayan bir metot yazınız.
+
+void YolHesapla(double hiz, double zaman)
+{
+    double gidilenYol = hiz * zaman;
+    Console.WriteLine("Gidilen Yol ---> " + gidilenYol);
+}
+
+// 20- Yarıçap bilgisi verilen bir dairenin alanını hesaplayan bir metot yazınız.
+void AlanHesapla(double yaricap)
+{
+    double alan = Math.PI * Math.Pow(yaricap, 2);
+    Console.WriteLine("Dairenin alanı ---> " + alan);
+}
+
+// 21- "Zaman bir GeRi SayIm" cümlesini alıp , hepsi büyük harf ve hepsi küçük harfle yazdırınız.
+
+string metin = "Zaman bir GeRi SayIm";
+
+Console.WriteLine(metin.ToUpper());
+Console.WriteLine(metin.ToLower());
+
+// 22- "    Selamlar   " metnini bir değişkene atayıp , başındaki ve sonundaki boşlukları siliniz. Kalıcı olarak.
+string merhabaMetni = "    Selamlar   ";
+
+merhabaMetni = merhabaMetni.Trim();
+Console.WriteLine(merhabaMetni);
+
+*/
