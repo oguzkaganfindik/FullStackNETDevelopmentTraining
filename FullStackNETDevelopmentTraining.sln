@@ -191,23 +191,35 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "092) EncapsulationOrnek1", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "093) EncapsulationOrnek2", "093) EncapsulationOrnek2\093) EncapsulationOrnek2.csproj", "{5FFC5C57-E272-41C5-9284-3D55D4474660}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "094) EncapsulationOrnek3", "094) EncapsulationOrnek3\094) EncapsulationOrnek3.csproj", "{73FD2610-A2F9-4919-8AB4-1DB607A13737}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "094) EncapsulationOrnek3", "094) EncapsulationOrnek3\094) EncapsulationOrnek3.csproj", "{73FD2610-A2F9-4919-8AB4-1DB607A13737}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "095) Inheritance", "095) Inheritance\095) Inheritance.csproj", "{29152747-D2CE-4DB7-9AE6-817AF238C57F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "095) Inheritance", "095) Inheritance\095) Inheritance.csproj", "{29152747-D2CE-4DB7-9AE6-817AF238C57F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "096) Inheritance2", "096) Inheritance2\096) Inheritance2.csproj", "{1DBE9F5E-A073-4828-A845-527901DC97FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "096) Inheritance2", "096) Inheritance2\096) Inheritance2.csproj", "{1DBE9F5E-A073-4828-A845-527901DC97FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "097) InheritanceOrnek1", "097) InheritanceOrnek1\097) InheritanceOrnek1.csproj", "{4403D419-1D28-4B16-989E-5330FA2990CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "097) InheritanceOrnek1", "097) InheritanceOrnek1\097) InheritanceOrnek1.csproj", "{4403D419-1D28-4B16-989E-5330FA2990CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "098) ClassPropertyType", "098) ClassPropertyType\098) ClassPropertyType.csproj", "{753F2291-B528-48DC-8F12-43A067D15382}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "098) ClassPropertyType", "098) ClassPropertyType\098) ClassPropertyType.csproj", "{753F2291-B528-48DC-8F12-43A067D15382}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "099) ClassPropertyTypeOrnek", "099) ClassPropertyTypeOrnek\099) ClassPropertyTypeOrnek.csproj", "{BF6B4890-65D9-4BD4-88AF-5E1CFDD53BAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "099) ClassPropertyTypeOrnek", "099) ClassPropertyTypeOrnek\099) ClassPropertyTypeOrnek.csproj", "{BF6B4890-65D9-4BD4-88AF-5E1CFDD53BAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "100) GenericList", "100) GenericList\100) GenericList.csproj", "{6D59764E-950E-44C0-9299-1AE37B7BC3D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "100) GenericList", "100) GenericList\100) GenericList.csproj", "{6D59764E-950E-44C0-9299-1AE37B7BC3D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "101) GenericListOrnek1", "101) GenericListOrnek1\101) GenericListOrnek1.csproj", "{88CE2A62-8F8F-460B-AC2A-D739574888A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "101) GenericListOrnek1", "101) GenericListOrnek1\101) GenericListOrnek1.csproj", "{88CE2A62-8F8F-460B-AC2A-D739574888A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "102) GenericListOrnek2", "102) GenericListOrnek2\102) GenericListOrnek2.csproj", "{C7B56CCC-9FF1-49FF-96CD-02624899C18B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "102) GenericListOrnek2", "102) GenericListOrnek2\102) GenericListOrnek2.csproj", "{C7B56CCC-9FF1-49FF-96CD-02624899C18B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "103) InheritanceOrnek2", "103) InheritanceOrnek2\103) InheritanceOrnek2.csproj", "{1A3F2AC7-7566-44D5-9BDE-10FAA1989A1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "104) ListOrnek", "104) ListOrnek\104) ListOrnek.csproj", "{D3B3E402-5752-47B2-A79D-3C1DB6B4E709}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "105) Polymorphism", "105) Polymorphism\105) Polymorphism.csproj", "{6901F0E1-8ABB-4657-91BA-99CF8D7C292F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "106) PolymorphismOrnek", "106) PolymorphismOrnek\106) PolymorphismOrnek.csproj", "{C6C51A68-F9B4-422B-BEA6-FAEDC840599B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "107) Abstraction", "107) Abstraction\107) Abstraction.csproj", "{278BD3FC-6EDC-479C-B95A-339179A9EF96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "108) AbstractionOrnek1", "108) AbstractionOrnek1\108) AbstractionOrnek1.csproj", "{E68210F5-C515-4FEA-8DC9-C497B7231769}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -627,6 +639,30 @@ Global
 		{C7B56CCC-9FF1-49FF-96CD-02624899C18B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7B56CCC-9FF1-49FF-96CD-02624899C18B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7B56CCC-9FF1-49FF-96CD-02624899C18B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A3F2AC7-7566-44D5-9BDE-10FAA1989A1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A3F2AC7-7566-44D5-9BDE-10FAA1989A1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A3F2AC7-7566-44D5-9BDE-10FAA1989A1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A3F2AC7-7566-44D5-9BDE-10FAA1989A1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3B3E402-5752-47B2-A79D-3C1DB6B4E709}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3B3E402-5752-47B2-A79D-3C1DB6B4E709}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3B3E402-5752-47B2-A79D-3C1DB6B4E709}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3B3E402-5752-47B2-A79D-3C1DB6B4E709}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6901F0E1-8ABB-4657-91BA-99CF8D7C292F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6901F0E1-8ABB-4657-91BA-99CF8D7C292F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6901F0E1-8ABB-4657-91BA-99CF8D7C292F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6901F0E1-8ABB-4657-91BA-99CF8D7C292F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6C51A68-F9B4-422B-BEA6-FAEDC840599B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6C51A68-F9B4-422B-BEA6-FAEDC840599B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6C51A68-F9B4-422B-BEA6-FAEDC840599B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6C51A68-F9B4-422B-BEA6-FAEDC840599B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{278BD3FC-6EDC-479C-B95A-339179A9EF96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{278BD3FC-6EDC-479C-B95A-339179A9EF96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{278BD3FC-6EDC-479C-B95A-339179A9EF96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{278BD3FC-6EDC-479C-B95A-339179A9EF96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E68210F5-C515-4FEA-8DC9-C497B7231769}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E68210F5-C515-4FEA-8DC9-C497B7231769}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E68210F5-C515-4FEA-8DC9-C497B7231769}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E68210F5-C515-4FEA-8DC9-C497B7231769}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
