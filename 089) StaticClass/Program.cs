@@ -2,8 +2,6 @@
 
 // StaticClass
 
-
-
 int sayi1 = 10;
 int sayi2 = 20;
 
