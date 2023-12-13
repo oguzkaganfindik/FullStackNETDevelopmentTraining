@@ -9,6 +9,10 @@
 using _087__OOP_AraTekrar;
 
 Hayvan h1 = new Hayvan();
+h1.Id = 1;
+h1.Ad = "Yogi";
+h1.Tur = "Ayı";
+h1.Yas = 15;
 
 Hayvan h2 = new Hayvan(2, "Züzü", "Zürafa", 20);
 

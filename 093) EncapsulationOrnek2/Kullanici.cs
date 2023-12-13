@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _093__EncapsulationOrnek2
+﻿namespace _093__EncapsulationOrnek2
 {
     internal class Kullanici
     {
